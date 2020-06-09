@@ -18,7 +18,7 @@ options = {
     "batch": 8,
     "epoch": 100,
     "gpu": 0.8,
-    "backup": "./ckpt2/",
+    "backup": "./ckpt/",
     "save": 200,
     "train": True,
     "annotation": "./annotations",
